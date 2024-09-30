@@ -1,4 +1,4 @@
-﻿annotated-types==0.7.0
+annotated-types==0.7.0
 anyio==4.6.0
 bcrypt==4.2.0
 certifi==2024.8.30
@@ -22,6 +22,6 @@ SQLAlchemy==2.0.35
 starlette==0.38.6
 typing_extensions==4.12.2
 urllib3==2.2.3
-uvicorn==0.31.0
+uvicorn==0.23.0  # Updated to a more recent version
 gunicorn==22.0.0
 
